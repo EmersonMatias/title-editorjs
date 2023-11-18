@@ -1,6 +1,6 @@
 {
   "name": "title-editorjs",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "types": "./types/index.d.ts",
   "type": "module",
   "main": "./dist/index.umd.cjs",
