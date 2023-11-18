@@ -33,7 +33,7 @@
   "description": "Title Tool for Editor.js",
   "repository": {
     "type": "github",
-    "url": "https://github.com/EmersonMatias/h1-editorjs"
+    "url": "https://github.com/EmersonMatias/title-editorjs"
   },
   "exports": {
     ".": {
